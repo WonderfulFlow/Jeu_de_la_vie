@@ -1,0 +1,6 @@
+C:\Users\mendu\Desktop\jeu de la vie\jeu de la vie\bin\Debug\jeu de la vie.exe.config
+C:\Users\mendu\Desktop\jeu de la vie\jeu de la vie\bin\Debug\jeu de la vie.exe
+C:\Users\mendu\Desktop\jeu de la vie\jeu de la vie\bin\Debug\jeu de la vie.pdb
+C:\Users\mendu\Desktop\jeu de la vie\jeu de la vie\obj\Debug\jeu de la vie.csprojResolveAssemblyReference.cache
+C:\Users\mendu\Desktop\jeu de la vie\jeu de la vie\obj\Debug\jeu de la vie.exe
+C:\Users\mendu\Desktop\jeu de la vie\jeu de la vie\obj\Debug\jeu de la vie.pdb
